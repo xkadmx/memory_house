@@ -1,0 +1,1 @@
+java Convert < test.in > test.out
